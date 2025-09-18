@@ -81,3 +81,10 @@ layout: default
 
 　　说到底，在阿根廷上网就像探戈，看起来步骤分明，但真正跳起来需要一点随机和应变。希望这篇指南能帮你跳出优雅的舞步，而不是踩到自己的脚。祝你在这片热情的土地上，网络永远满格！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Argentina eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/argentina-data-plans)
